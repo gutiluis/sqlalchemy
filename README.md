@@ -1,2 +1,2 @@
 # sqlalchemy
-for ORM purposes. use sessionmakes.
+for ORM purposes. use sessionmaker.
